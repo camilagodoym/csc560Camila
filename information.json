@@ -1,6 +1,6 @@
     {
         "first_name" : "Robert",
-        "las_name": "Lewandowski",
+        "last_name": "Lewandowski",
         "team": "Bayern Munich Squad",
         "minutes_playes": 364,
         "goals": 10,
@@ -15,7 +15,7 @@
     },
     {
         "first_name" : "Serge",
-        "las_name": "Gnabry",
+        "last_name": "Gnabry",
         "team": "Bayern Munich Squad",
         "minutes_playes": 407,
         "goals": 4,
@@ -30,7 +30,7 @@
     },
     {
         "first_name" : "Thomas",
-        "las_name": "Muller",
+        "last_name": "Muller",
         "team": "Bayern Munich Squad",
         "minutes_playes": 510,
         "goals": 4,
@@ -45,7 +45,7 @@
     },
     {
         "first_name" : "Leo",
-        "las_name": "Goretzka",
+        "last_name": "Goretzka",
         "team": "Bayern Munich Squad",
         "minutes_playes": 329,
         "goals": 1,
@@ -60,7 +60,7 @@
     },    
     {
         "first_name" : "Leroy",
-        "las_name": "Sane",
+        "last_name": "Sane",
         "team": "Bayern Munich Squad",
         "minutes_playes": 230,
         "goals": 2,
@@ -75,7 +75,7 @@
     },
     {
         "first_name" : "Joshua",
-        "las_name": "Zirkee",
+        "last_name": "Zirkee",
         "team": "Bayern Munich Squad",
         "minutes_playes": 92,
         "goals": 0,
@@ -90,7 +90,7 @@
     },
     {
         "first_name" : "Kingsley",
-        "las_name": "Coman",
+        "last_name": "Coman",
         "team": "Bayern Munich Squad",
         "minutes_playes": 176,
         "goals": 0,
@@ -105,7 +105,7 @@
     },
     {
         "first_name" : "Corentin",
-        "las_name": "Tolisso",
+        "last_name": "Tolisso",
         "team": "Bayern Munich Squad",
         "minutes_playes": 212,
         "goals": 0,
@@ -120,7 +120,7 @@
     },
     {
         "first_name" : "Joshua",
-        "las_name": "Kimmich",
+        "last_name": "Kimmich",
         "team": "Bayern Munich Squad",
         "minutes_playes": 425,
         "goals": 1,
@@ -135,7 +135,7 @@
     },
     {
         "first_name" : "Jamal",
-        "las_name": "Musiala",
+        "last_name": "Musiala",
         "team": "Bayern Munich Squad",
         "minutes_playes": 82,
         "goals": 2,
@@ -150,7 +150,7 @@
     },
     {
         "first_name" : "Lucas",
-        "las_name": "Hernandez",
+        "last_name": "Hernandez",
         "team": "Bayern Munich Squad",
         "minutes_playes": 332,
         "goals": 0,
@@ -165,7 +165,7 @@
     },
     {
         "first_name" : "Eric",
-        "las_name": "Maxim",
+        "last_name": "Maxim",
         "team": "Bayern Munich Squad",
         "minutes_playes": 89,
         "goals": 0,
@@ -180,7 +180,7 @@
     },
     {
         "first_name" : "Bouna",
-        "las_name": "Sarr",
+        "last_name": "Sarr",
         "team": "Bayern Munich Squad",
         "minutes_playes": 180,
         "goals": 0,
@@ -195,7 +195,7 @@
     },
     {
         "first_name" : "Javi",
-        "las_name": "Martinezz",
+        "last_name": "Martinezz",
         "team": "Bayern Munich Squad",
         "minutes_playes": 127,
         "goals": 0,
@@ -210,7 +210,7 @@
     },
     {
         "first_name" : "Niklas",
-        "las_name": "Sule",
+        "last_name": "Sule",
         "team": "Bayern Munich Squad",
         "minutes_playes": 271,
         "goals": 0,
